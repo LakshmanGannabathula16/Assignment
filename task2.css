@@ -1,0 +1,24 @@
+
+body {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  height: 100vh;
+  margin:0;
+  background-color:black;
+}
+
+#clock {
+ background-color:black;
+  color:white;
+  font-size:  70px;
+  padding:20px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px greenyellow ;
+  letter-spacing: 3px;
+}
+
+
+
+
+
